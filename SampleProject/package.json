@@ -1,6 +1,6 @@
 {
   "name": "SampleProject",
-  "version": "0.0.1",
+  "version": "0.1",
   "private": true,
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
@@ -20,7 +20,7 @@
     "numeral": "^1.5.3",
     "react": "^15.4.2",
     "react-native": "^0.42.3",
-    "react-native-config": "^0.3.1",
+    "react-native-config": "^0.4.2",
     "react-native-linear-gradient": "^2.0.0",
     "react-native-navigation": "v2.0.0-experimental.256",
     "react-native-scrollable-tab-view": "^0.7.3",
